@@ -32,3 +32,38 @@ A summarization model based on BART (Bidirectional and Auto-Regressive Transform
 - **Use Case**: Summarizing long articles, documents, or reports into short, fluent summaries.  
 - **Latest Update**: Actively maintained on Hugging Face; widely adopted as a summarization benchmark.  
 - **Why It's Preferred**: High-quality outputs, fluent and readable summaries, balances speed and accuracy.
+
+# 🎨 Generative Models
+
+## 1. Shifting Focus to Global Audio Perception in Portrait Animation  
+**Model Name**: Shifting Focus to Global Audio Perception in Portrait Animation  
+**Framework**: Sonic  
+**Architecture**:  
+- Context-enhanced audio learning, which extracts long-range intra-clip audio knowledge to provide facial expression and lip motion cues (e.g., tone, speech speed).  
+- Motion-decoupled controller to separately handle head motion and facial expressions.  
+- Time-aware position shift fusion to connect intra-clip motion for global perception.
+
+**Use Case**:  
+- Virtual avatars and digital assistants that can perform realistic face and lip animations based on speech input.  
+- Used in customer service bots, gaming characters, and virtual companionship.
+
+**GitHub**: [Sonic Repo](https://github.com/jixiaozhong/Sonic?tab=readme-ov-file)  
+**Research Paper**: [View on arXiv](https://arxiv.org/pdf/2411.16331)
+
+---
+
+## 2. TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models  
+**Model Name**: TrajectoryCrafter  
+**Framework**: Hugging Face  
+**Architecture**:  
+- Dynamic Point Cloud Generation  
+- Dual-Stream Conditional Video Diffusion Model
+
+**Use Case**:  
+- Generates dynamic 3D environments from single-view gameplay or video footage.  
+- Speeds up environment prototyping or immersive scene recreation for VR/AR games.  
+- Example: Creating new walkthroughs of real-world locations in first-person games.
+
+**GitHub**: [TrajectoryCrafter Repo](https://github.com/TrajectoryCrafter/TrajectoryCrafter?tab=readme-ov-file)  
+**Research Paper**: [View on arXiv](https://arxiv.org/pdf/2503.05638)
+
