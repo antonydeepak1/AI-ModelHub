@@ -67,3 +67,34 @@ A summarization model based on BART (Bidirectional and Auto-Regressive Transform
 **GitHub**: [TrajectoryCrafter Repo](https://github.com/TrajectoryCrafter/TrajectoryCrafter?tab=readme-ov-file)  
 **Research Paper**: [View on arXiv](https://arxiv.org/pdf/2503.05638)
 
+
+# 🔄 Multimodal
+
+## 1. Qwen2-Audio-7B  
+**Created By**: Salesforce Research (LAVIS team)  
+**Release Date**: 2023  
+**Framework**: PyTorch + Hugging Face Transformers  
+**Tasks it Performs**:  
+- Image Captioning  
+- Visual Question Answering  
+- Cross-Modal Matching  
+- Grounding (via attention)  
+
+**Reference Use Case**:  
+Automates image-based product descriptions, improving SEO and user accessibility. Reduces manual effort in large-scale e-commerce platforms.
+
+---
+
+## 2. BLIP-2  
+**Created By**: Salesforce Research (LAVIS team)  
+**Release Date**: 2023  
+**Framework**: PyTorch + Hugging Face Transformers  
+**Tasks it Performs**:  
+- Image Captioning  
+- Visual Question Answering  
+- Cross-Modal Matching  
+- Grounding (via attention)  
+
+**Reference Use Case**:  
+Automates image-based product descriptions, improving SEO and user accessibility. Reduces manual effort in large-scale e-commerce platforms.
+
